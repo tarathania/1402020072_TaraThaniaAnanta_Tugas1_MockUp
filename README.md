@@ -1,0 +1,2 @@
+# 1402020072_TaraThaniaAnanta_Tugas1_MockUp
+Tugas1 MockUp dengan menggunakan Balsamiq
